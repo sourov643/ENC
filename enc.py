@@ -4,4 +4,4 @@
 
 import os
 import sv
-sv.loging()
+sv.login()
