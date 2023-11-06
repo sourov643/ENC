@@ -4,5 +4,5 @@
 #-পেলমু তোর বাবা EHC EMRAN
 
 import os
-import ASH
-ASH.loging()
+import PAID
+PAID.loging()
