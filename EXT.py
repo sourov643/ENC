@@ -5,4 +5,4 @@
 
 import os
 import sv
-EXT.loging()
+sv loging()
